@@ -104,9 +104,7 @@ public class Principal {
 				if(cbCorPagina.getSelectedItem() == "rosa") {
 					frmAtividade.getContentPane().setBackground(Color.YELLOW);
 				}
-				if(cbCorPagina.getSelectedItem() == "roxo") {
-					frmAtividade.getContentPane().setBackground(Color.PURPLE);
-				}
+				
 				if(cbCorPagina.getSelectedItem() == "preto") {
 					frmAtividade.getContentPane().setBackground(Color.BLACK);
 				}
